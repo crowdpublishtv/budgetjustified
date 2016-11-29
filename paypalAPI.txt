@@ -1,0 +1,7 @@
+Credential 	API Certificate
+Registrant 	Role Models Lisa Schaefer
+
+Vienna, VA US
+API Username 	roleModelEnterprises_api1.gmail.com
+API Password 	3XH4GYBDB7VEGLXZ
+Request Date 	Feb 10, 2011 13:56:21 PST
